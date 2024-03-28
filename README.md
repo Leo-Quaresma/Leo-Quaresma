@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leo-Quaresma
-- 👀 I’m interested in Front-End technologies
-- 🌱 I’m currently learning the basics. HTML5, CSS3 and JS
+- 👀 I’m interested in almost every technologies
+- 🌱 I’m currently learning the basics. HTML5, CSS3, JS and PHP
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me: quaresma_leo@hotmail.com
 - 😄 Pronouns: He/His
