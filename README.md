@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @Leo-Quaresma
-- 👀 I’m interested in almost every technologies
-- 🌱 I’m currently learning the basics. HTML5, CSS3, JS and PHP
-- 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me: quaresma_leo@hotmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm currently also studying for Univesp's test
+<h1 align="left">Hey 👋 I'm Leo</h1>
 
-<!---
-Leo-Quaresma/Leo-Quaresma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<h2 align="left">Self-taught Programming student</h2>
+
+###
+
+<p align="left">✨ Creating bugs since January/24<br>📚 I'm currently learning OOP with PHP<br>🎯 Goals: solve problems in better ways<br>🎲 Fun fact: I'm currently studying for Univesp's exam</p>
+
+###
+
+<h2 align="left">Find me here</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+</div>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
+
+###
