@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/leo-quaresma-0b4813315/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/leonardo-quaresma-b1a95316a/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a>
 </div>
 
 ###
