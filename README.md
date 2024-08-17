@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Self-taught Programming student</h2>
+<h2 align="left">Desenvolvedor .NET</h2>
 
 ###
 
