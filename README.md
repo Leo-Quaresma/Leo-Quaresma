@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Comecei a estudar em Jan/24<br>📚 Estou estudando SQL e OOP com C#<br>🎯 Objetivos: dar vida às minhas ideias<br>🎲 Fun fact: Gosto muito de desenvolver em Unity e sou mediano em Pixel Art</p>
+<p align="left">✨ Comecei a estudar em Jan/24<br>📚 Estou estudando NodeJS e React<br>🎯 Objetivos: dar vida às minhas ideias<br>🎲 Fun fact: Gosto muito de desenvolver em Unity e sou mediano em Pixel Art</p>
 
 ###
 
